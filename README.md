@@ -1,2 +1,2 @@
 # cuddly-spork
-Learning source control.
+Learning source control and thoroughly enjoying it.
